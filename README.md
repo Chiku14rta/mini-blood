@@ -1,6 +1,6 @@
 # mini-blood
 Entry of monster into Dark World.
 <br>
-Monster - JIBAN ORTON
+Monster - JIBAN ORTON.
 <br>
-(Darkness is the only way to immortality)
+(Darkness is the only way to 'IMMORTALITY')
